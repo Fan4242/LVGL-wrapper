@@ -1,2 +1,2 @@
 文件夹的前部分是部件名，这个部件名代表的是这个文件夹内的代码主要运用什么部件
-封装函数和结构体都在Source/lvgl/my_gui.c和Headers/lvgl/my_gui.h中
+封装函数和结构体都在my_gui.c和my_gui.h中
